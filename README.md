@@ -1,8 +1,9 @@
-# [Project Name]
+# Gas Price App
 
-[Value Proposition]
+This free app will allow users to find nearby gas stations and see their gas prices so they can find the
+cheapest gas price without driving to the actual gas station first.
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+Primary stakeholders will be workers or students that are commuting and don't necessarily have time to drive to or check gas station prices while driving. They will be able to quickly access an app that will show them, based off their zip code, gas prices in their current area. 
 
 ## Links
 
